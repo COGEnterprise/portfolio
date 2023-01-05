@@ -1,0 +1,17 @@
+*{
+    font-family: 'Arvo', serif;
+}
+
+nav, #navbar-dropdown ul{
+    background-color: #121212 !important;
+}
+
+/* media query */
+@media screen and (max-width: 690px) {
+    .logo img {
+        height: 2.5rem !important;
+        margin-left: 2rem !important;
+
+    }
+}
+    
